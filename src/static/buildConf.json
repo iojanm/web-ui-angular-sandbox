@@ -1,0 +1,9 @@
+{
+    "dev": {
+        "dest": "dist/dev",
+        "serverPath": "src/static/server/server.js"
+    },
+    "global": {
+        "srcFolder": "src/client"
+    }
+}
